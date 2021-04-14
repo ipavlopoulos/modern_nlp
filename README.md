@@ -1,3 +1,8 @@
-# Modern NLP Reading Group at Stockholm University, 2021.
+# Modern NLP Reading Group at Stockholm University, DSV, 2021
 
-The reading group is about Natural Language Processing (NLP), recent papers and standard techniques. One notebook will follow each session, so that we will experiment hands on with research questions that will arise during reading. 
+This reading group is about Natural Language Processing (NLP), recent papers and standard techniques. 
+A notebook follows each session, hosting experiments with regards to questions that came up during reading or presenting.
+
+> John Pavlopoulos, Senior Lecturer (fixed-term)
+> Dept. of Computer and System Sciences
+> Stockholm University
